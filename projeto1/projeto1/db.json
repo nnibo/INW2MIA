@@ -1,0 +1,25 @@
+{
+  "produtos": [
+  {
+  "id": 1,
+  "descricao": "Whishky",
+  "estoque": 10,
+  "valor": 15,
+  "imagem" : "imgs/img1.jpg"
+  },
+  {
+  "id": 2,
+  "descricao": "Vinho",
+  "estoque": 10,
+  "valor": 5.25,
+  "imagem" : "imgs/img2.jpg"
+  },
+  {
+    "id": 3,
+    "descricao": "Cerveja",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "imgs/pexels-marianna-ole-1727829.jpg"
+  }
+  ]
+ }
